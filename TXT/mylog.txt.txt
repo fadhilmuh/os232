@@ -1,0 +1,10 @@
+# START: Sun 27 Aug 2023 14:43
+# ##########################################
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ##########################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
+L00 General, etc.
