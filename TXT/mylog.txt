@@ -7,4 +7,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-L00 General, etc.
+ZCZC W00 00 L00 General, etc.
+ZCZC W00 00 L01 SCELE/Discord related
