@@ -13,3 +13,12 @@ ZCZC W00 30 L03 Created Github Page
 ZCZC W00 100 L04 Class
 ZCZC W00 10 L05 Quiz
 ZCZC W00 120 L06 Reading Assignment
+ZCZC W01 10 L00 General, etc.
+ZCZC W01 50 L01 OS-related Reading
+ZCZC W01 100 L02 Class
+ZCZC W01 30 L03 OS-related Reading
+ZCZC W01 100 L04 Class
+ZCZC W01 60 L05 Quiz preparation
+ZCZC W01 15 L06 Quiz
+ZCZC W01 10 L07 Github related 
+ZCZC W01 300 L08 Weekly Assignments
