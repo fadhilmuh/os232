@@ -2,4 +2,4 @@
 
 [LINKS](links.md) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/fadhilmuh/os232/) ||
 
-#### REV00: Sat 10 Sep 2023 18:04
+#### REV01: Sun 11 Sep 2023 18:08
