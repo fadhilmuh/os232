@@ -33,3 +33,19 @@ ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 20 L82 Reading Book (paper or online)
 ZCZC W02 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 50 L05 Quiz related including studying
+ZCZC W02 30 L21 Trying something
+ZCZC W02 15 L07 Demo related
+ZCZC W02 20 L22 Linux CLI including tar, etc.
+ZCZC W02 20 L23 Bash, Regex, SED, AWK.
+ZCZC W02 15 L24 Scripting in general.
+ZCZC W02 5 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 1 L40 TXT/ related in general.
+ZCZC W02 1 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W02 3 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W02 10 L45 TXT/SHA256SUM related
+ZCZC W02 150 L12 Assignment #02
+ZCZC W02 30 L23 Bash, Regex, SED, AWK.
+ZCZC W02 5 L41 TXT/mylog.txt related.
+ZCZC W02 10 L04 GitHub Pages related
+ZCZC W02 1 L03 GitHub and git related, including commit, push, pull
