@@ -49,3 +49,14 @@ ZCZC W02 30 L23 Bash, Regex, SED, AWK.
 ZCZC W02 5 L41 TXT/mylog.txt related.
 ZCZC W02 10 L04 GitHub Pages related
 ZCZC W02 1 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 60 L82 Reading Book (paper or online)
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 100 L05 Quiz related including studying
+ZCZC W03 15 L07 Demo related
+ZCZC W03 180 L13 Assignment #03
+ZCZC W03 15 L25 C-language including Make.
+ZCZC W03 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 5 L41 TXT/mylog.txt related.
+ZCZC W03 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 1 L03 GitHub and git related, including commit, push, pull
