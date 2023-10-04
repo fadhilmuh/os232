@@ -60,3 +60,16 @@ ZCZC W03 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 5 L41 TXT/mylog.txt related.
 ZCZC W03 5 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 1 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 60 L82 Reading Book (paper or online)
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc
+ZCZC W04 30 L07 Demo related
+ZCZC W04 120 L14 Assignment #04
+ZCZC W04 15 L25 C-language including Make.
+ZCZC W04 20 L22 Linux CLI including tar, etc.
+ZCZC W04 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 30 L64 Helping a friend (OS related problem)
+ZCZC W04 5 L41 TXT/mylog.txt related.
+ZCZC W04 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 1 L03 GitHub and git related, including commit, push, pull
