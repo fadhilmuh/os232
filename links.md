@@ -13,5 +13,6 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [OpenAI ChatGPT](https://chat.openai.com/) --- Good assistant for accompanying Operating System class' weekly assignment and studying. But still, it cannot replace a friend who understands OS class better.
 * [Geeks for Geeks](https://www.geeksforgeeks.org/operating-systems/) --- A good site to read about operating system materials
 * [freeCodeCamp Linux Tutorial](https://www.freecodecamp.org/news/the-best-linux-tutorials/) --- Free audio visual tutorial for studying and learning about linux
+* [Codecademy C tutorial](https://www.codecademy.com/learn/paths/c) --- Good place to learn C
 <br>
 <hr>
