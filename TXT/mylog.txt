@@ -85,3 +85,17 @@ ZCZC W05 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W05 5 L41 TXT/mylog.txt related.
 ZCZC W05 5 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W05 1 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 40 L82 Reading Book (paper or online)
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 15 L64 Helping a friend (OS related problem)
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 100 L82 Reading Book (paper or online)
+ZCZC W06 150 L16 Assignment #06
+ZCZC W06 20 L07 Demo related
+ZCZC W06 15 L25 C-language including Make.
+ZCZC W06 1 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W06 20 L22 Linux CLI including tar, etc.
+ZCZC W06 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 5 L41 TXT/mylog.txt related.
+ZCZC W06 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W06 1 L03 GitHub and git related, including commit, push, pull
