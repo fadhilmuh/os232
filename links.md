@@ -16,5 +16,6 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Codecademy C tutorial](https://www.codecademy.com/learn/paths/c) --- Good place to learn C
 * [Operating System Website](https://osp4diss.vlsm.org/) --- It is not OS without it!
 * [Good Linux Tutorial Website](https://linuxjourney.com/) --- A good website to learn about linux
+* [Best Guidance for The Next Weeks (Linux from scratch Ch.1--End)](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8) --- This is a good tutorial for weekly assignments
 <br>
 <hr>
